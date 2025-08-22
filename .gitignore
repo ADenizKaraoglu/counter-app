@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Env files
+.env
+
+# Build outputs
+/dist
+
+# Supabase
+.supabase
+
